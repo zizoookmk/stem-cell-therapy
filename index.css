@@ -1,0 +1,15 @@
+p {
+    color:  rgb(84, 67, 13);
+    font-family: 'Times New Roman', Times, serif;
+
+}
+h1{text-align: center;
+font-size: 70px;
+color: rgb(197, 197, 220);
+opacity: 1.0;}
+body{
+background-image: url("download.jpeg");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center ;
+}
